@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app.playingogle.com	TRUE	/	FALSE	1999999999	PHPSESSID	euchvfesnrj3heje2e2jluniqd
+app.playingogle.com	TRUE	/	FALSE	1999999999	_csrf	3e8ed6195414bd3c7e00ae1a2a03d166ce19bc4bb55b3717c610e26250b5bae7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22NciLFQCQoO15Y2fbVNA9VCKuHAfrWC7e%22%3B%7D
+app.playingogle.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
